@@ -4,4 +4,4 @@
 
 This dotfile repo is the plugable custom configuration for JarrodCTaylor's famous [dotfiles](https://github.com/JarrodCTaylor/dotfiles).
 
-In my opinion they are the best dotfiles.  Go pull them down and give him a start.
+In my opinion they are the best dotfiles.  Go pull them down and give him a star.
